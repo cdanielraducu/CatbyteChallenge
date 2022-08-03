@@ -1,0 +1,6 @@
+module Pods_CatbyteChallenge_CatbyteChallengeTests {
+  umbrella header "Pods-CatbyteChallenge-CatbyteChallengeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
